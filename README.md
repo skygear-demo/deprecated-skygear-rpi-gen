@@ -1,3 +1,7 @@
+# DEPRECATED
+
+The Skygear IoT plugins only works with Skygear v0, but not in latest v1.
+
 # pi-gen-skygear
 
 Tool used to build Skygear IoT RPi images.
